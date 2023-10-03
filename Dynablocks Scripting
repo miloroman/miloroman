@@ -1,0 +1,22 @@
+spanish warning
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simulación Dynablocks</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+        canvas {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="sim-canvas"></canvas>
+    <script src="main.js"></script>
+</body>
+</html>
