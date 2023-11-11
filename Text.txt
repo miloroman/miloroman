@@ -1,0 +1,3 @@
+This contains my scratch user
+I use autocorrect (smart autocorrect)
+You can use Chat.openai.com to answer things or GitHub codes
